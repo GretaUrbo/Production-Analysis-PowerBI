@@ -1,0 +1,7 @@
+process_category,is_break,max_duration,breaks_per_shift,ratio_working_with_assistant
+cleaning,FALSE,,,0.4
+lunch_break,TRUE,60,1,
+print,FALSE,,,1
+roll_change,FALSE,,,0.5
+setup,FALSE,,,0.7
+short_pause,TRUE,15,2,
